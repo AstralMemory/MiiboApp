@@ -1,0 +1,2 @@
+# MiiboApp
+ GodotEngineでMiiboを使うためのサンプルプロジェクト
