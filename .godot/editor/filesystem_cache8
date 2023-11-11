@@ -1,10 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699563929
+::res://::1699564346
 Config.gd::GDScript::-1::1699563917::0::1::::<>Node<>::
-default_env.tres::Environment::-1::1699563917::0::1::::<><>::
+default_env.tres::Environment::5189526129571319017::1699564001::0::1::::<><>::
 export_presets.cfg::TextFile::-1::1686493460::0::1::::<><>::
 icon.png::CompressedTexture2D::6826991404705208105::1685624975::1699563931::1::::<><>::
-jp_font.tres::Theme::-1::1699563917::0::1::::<><>::res://NotoSansJP-Medium.otf
-Main.gd::GDScript::-1::1699563917::0::1::::<>Control<>::
-Main.tscn::PackedScene::-1::1699563917::0::1::::<><>::res://jp_font.tres<>res://Main.gd
+jp_font.tres::Theme::2495172389864077281::1699563986::0::1::::<><>::uid://bmj87w2ferp6u::::res://NotoSansJP-Medium.otf
+Main.gd::GDScript::-1::1699563986::0::1::::<>Control<>::
+Main.tscn::PackedScene::104292146574501669::1699564001::0::1::::<><>::uid://bbsxeifw5dh3v::::res://jp_font.tres<>res://Main.gd
 NotoSansJP-Medium.otf::FontFile::3249328210758909078::1686491646::1699563931::1::::<><>::
+README.md::TextFile::-1::1699564203::0::1::::<><>::
